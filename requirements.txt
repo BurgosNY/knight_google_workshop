@@ -1,0 +1,4 @@
+jupyter
+pendulum
+python-dotenv
+requests
